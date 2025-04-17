@@ -80,6 +80,7 @@ php artisan test
 | Customer | Confirm Booking            | POST /booking/confirm/{bookingId} |
 
 ##A Postman collection is included to test the endpoints easily.
+
 You can find the Postman collection in the `/postman` folder:
 Import the file Sports-Arena-Time-Slot-Management.postman_collection.json into Postman.
 
